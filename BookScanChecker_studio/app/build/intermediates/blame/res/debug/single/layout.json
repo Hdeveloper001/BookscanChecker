@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout\\reader.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader_actionbar.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout\\reader_actionbar.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_dialog.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout\\input_dialog.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_isbntab.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout\\activity_isbntab.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_isbn10.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout\\activity_isbn10.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\isbn.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout\\isbn.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bookinfo.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout\\bookinfo.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\isbn_actionbar.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout\\isbn_actionbar.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

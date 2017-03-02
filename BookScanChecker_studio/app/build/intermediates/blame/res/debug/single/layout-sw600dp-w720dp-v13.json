@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-w720dp-v13\\main.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout-sw600dp-w720dp\\main.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-w720dp-v13\\bookinfo.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout-sw600dp-w720dp\\bookinfo.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\anim\\from_middle.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\anim\\from_middle.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\anim\\to_middle.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\anim\\to_middle.xml"
+    }
+]

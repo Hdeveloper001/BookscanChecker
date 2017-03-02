@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Upwork task\BookScanChecker_studio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="26edc3f97e6fc1fb6d079965d003958d0b49326a">
+        <dex dex="G:\Upwork task\BookScanChecker_studio\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_baa07a72e3504cc95bd1c58a044b2697123b5f74.jar" />
+    </item>
+    <item
+        jar="C:\Users\prosoft\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="G:\Upwork task\BookScanChecker_studio\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_c33754e9075d55b5cfe69b5bcde0ba7a30a42f1b.jar" />
+    </item>
+    <item
+        jar="G:\Upwork task\BookScanChecker_studio\app\libs\zbar.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="G:\Upwork task\BookScanChecker_studio\app\build\intermediates\pre-dexed\debug\zbar_9f935f176c786aeb7a77d3ec140436ad2154cf3e.jar" />
+    </item>
+    <item
+        jar="G:\Upwork task\BookScanChecker_studio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="1297ab088affee6a48c82e2eae834f568f3b0159">
+        <dex dex="G:\Upwork task\BookScanChecker_studio\app\build\intermediates\pre-dexed\debug\instant-run_2d4a2724e66017dc5fb01f5ed7a69c5bdc54a99d.jar" />
+    </item>
+
+</items>

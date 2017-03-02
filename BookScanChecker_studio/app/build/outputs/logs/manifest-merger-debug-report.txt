@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:12:5-60
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:12:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:13:19-67
+uses-permission#android.permission.INTERNET
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:17:5-62:23
+MERGED from [com.android.support:support-v4:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] G:\Upwork task\BookScanChecker_studio\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:19:9-44
+	android:theme
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:21:9-40
+activity#jp.co.bookscan.checker.SplashActivity
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:screenOrientation
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:25:13-72
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:23:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:29:27-74
+activity#jp.co.bookscan.checker.ISBNTabActivity
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:32:9-37:20
+	android:screenOrientation
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:34:13-45
+	android:alwaysRetainTaskState
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:35:17-53
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:33:13-66
+activity#jp.co.bookscan.checker.TopActivity
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:38:9-43:20
+	android:screenOrientation
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:40:13-45
+	android:alwaysRetainTaskState
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:39:13-62
+activity#jp.co.bookscan.checker.ReaderActivity
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:44:9-49:20
+	android:screenOrientation
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:46:13-29
+	android:icon
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:47:13-48
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:45:13-65
+activity#jp.co.bookscan.checker.IsbnActivity
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:50:9-55:20
+	android:screenOrientation
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:52:13-29
+	android:icon
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:53:13-50
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:51:13-63
+activity#jp.co.bookscan.checker.IsbnActivity10
+ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:56:9-61:20
+	android:screenOrientation
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:58:13-45
+	android:alwaysRetainTaskState
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from G:\Upwork task\BookScanChecker_studio\app\src\main\AndroidManifest.xml:57:13-65

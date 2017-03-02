@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-h560dp-v13\\reader_actionbar.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout-h560dp\\reader_actionbar.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-h560dp-v13\\isbn_actionbar.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout-h560dp\\isbn_actionbar.xml"
+    },
+    {
+        "merged": "G:\\Upwork task\\BookScanChecker_studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-h560dp-v13\\isbn.xml",
+        "source": "G:\\Upwork task\\BookScanChecker_studio\\app\\src\\main\\res\\layout-h560dp\\isbn.xml"
+    }
+]
